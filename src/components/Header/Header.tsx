@@ -1,6 +1,4 @@
-import React from 'react';
-
-import { Button } from './Button';
+import { Button } from '../Botton/Button';
 import './header.css';
 
 type User = {
